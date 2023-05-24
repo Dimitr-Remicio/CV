@@ -1,0 +1,15 @@
+// @import './components/loader';
+@import './utils/colors';
+
+@import '~node_modules/modern-normalize/modern-normalize.css';
+
+* {
+  list-style: none;
+  box-sizing: border-box;
+}
+
+
+body {
+  background-color: var(--background-color);
+
+}
